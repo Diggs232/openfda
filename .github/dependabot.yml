@@ -11,7 +11,7 @@ updates:
     directory: "/"
     # Check the npm registry for updates every day (weekdays)
     schedule:
-      interval: "daily"
+      interval: "Daily"
 
   # Enable version updates for Docker
   - package-ecosystem: "docker"
@@ -19,4 +19,12 @@ updates:
     directory: "/"
     # Check for updates once a week
     schedule:
-      interval: "daily"
+      interval: "Weekly"
+
+  # Enable version updates for Docker
+  - package-ecosystem: "pip"
+    # Look for a `requirements.txt` in the `root` directory
+    directory: "/"
+    # Check for updates once daily
+    schedule:
+      interval: "Daily"
