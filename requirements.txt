@@ -7,7 +7,7 @@ docutils==0.21.2
 nose2[coverage_plugin]
 python-dateutil==2.9.0.post0
 urllib3
-wheel==0.38.1
+wheel==0.44.0
 xlrd==2.0.1
 requests==2.32.3
 numpy
