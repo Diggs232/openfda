@@ -18,7 +18,7 @@ setuptools.setup(
     'leveldb',
     'luigi<=3.5.2',
     'lxml',
-    'mock<=2.0.0',
+    'mock<=5.1.0',
     'nose2[coverage_plugin]',
     'python-gflags',
     'requests',
