@@ -27,7 +27,7 @@ setuptools.setup(
     'xmltodict',
     'dictsearch',
     'usaddress',
-    'python-crfsuite==0.9.8'
+    'python-crfsuite==0.9.11'
   ],
   dependency_links=[
     'file://' + os.path.join(os.getcwd(), 'dependencies',
