@@ -31,7 +31,7 @@
     "underscore": "^1.12.1"
   },
   "devDependencies": {
-    "chai": "^4.2.0",
+    "chai": "^5.1.1",
     "chai-http": "^5.1.1",
     "grunt": "^1.1.0",
     "grunt-contrib-nodeunit": "^4.0.0",
