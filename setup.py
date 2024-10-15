@@ -14,7 +14,7 @@ setuptools.setup(
     'arrow',
     'boto',
     'click',
-    'elasticsearch<=7.15.1',
+    'elasticsearch<=8.15.1',
     'leveldb',
     'luigi<=3.5.2',
     'lxml',
