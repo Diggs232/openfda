@@ -1,5 +1,5 @@
 setuptools
-backports.ssl-match-hostname==3.4.0.2
+backports.ssl-match-hostname==3.7.0.1
 beautifulsoup4
 certifi
 dictsearch==3.2.0
