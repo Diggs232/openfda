@@ -19,7 +19,7 @@
     "escape-html": "^1.0.3",
     "express": "^4.17.1",
     "express-async-handler": "^1.1.4",
-    "fast-stats": "0.0.2",
+    "fast-stats": "0.0.7",
     "jsonpath": "^1.1.1",
     "moment": "^2.6.0",
     "node-cache": "^5.1.2",
