@@ -34,7 +34,7 @@
     "chai": "^5.1.1",
     "chai-http": "^5.1.1",
     "grunt": "^1.1.0",
-    "grunt-contrib-nodeunit": "^4.0.0",
+    "grunt-contrib-nodeunit": "^5.0.0",
     "mocha": "^10.7.3",
     "parse-link-header": "^2.0.0",
     "url-parse": "^1.4.7"
