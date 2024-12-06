@@ -16,7 +16,7 @@ setuptools.setup(
     'click',
     'elasticsearch<=8.15.1',
     'leveldb',
-    'luigi<=3.5.2',
+    'luigi<=3.6.0',
     'lxml',
     'mock<=5.1.0',
     'nose2[coverage_plugin]',
