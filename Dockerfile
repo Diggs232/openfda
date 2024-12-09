@@ -1,4 +1,4 @@
-FROM python:3.13.0
+FROM python:3.13.1
 RUN curl -fsSL https://deb.nodesource.com/setup_22.x | bash -
 RUN apt-get install -y nodejs netcat-traditional p7zip-full
 WORKDIR /usr/src/openfda
